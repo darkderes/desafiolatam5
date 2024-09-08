@@ -23,7 +23,6 @@ body {
 }
 
 
-
 .logo {
   width: 100px;
 }
@@ -35,6 +34,18 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+.image-url-1 {
+  background-image: url('../img/card-1.jpg');
+}
+
+.image-url-2 {
+  background-image: url('../img/card-2.png');
+}
+
+.image-url-3 {
+  background-image: url('../img/card-3.jpg');
 }
 
 /* Contacto */
